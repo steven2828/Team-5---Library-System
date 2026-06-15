@@ -6,7 +6,7 @@ Library Check-In / Check-Out System
 ## Team Members
 - Steven — GitHub: @steven2828
 - Fredil — GitHub: @frediljosue
-- Santiago — GitHub: @username
+- Santiago — GitHub: @santiagofuentes0000
 
 ## Project Description
 A library wants to track the availability of its books. This system manages 25 book
@@ -42,7 +42,7 @@ Summary report includes:
 |--------|-----------------|------|
 | Steven | @steven2828 | GitHub Repository Setup and Repository Screenshots
 | Fredil | @frediljosue | Project Understanding and Planning
-| Santiago | @username | Project Design
+| Santiago | @santiagofuentes0000 | Project Design
 
 ## Repository Structure
 - Documentation — project planning and design documents
